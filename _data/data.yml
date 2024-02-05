@@ -6,49 +6,46 @@ sidebar:
   position: right # position of the sidebar : left or right
   #    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: true # set to False if you want education in main section instead of in sidebar
-  
+
   # Profile information
   name: Arsen Yakar Pearson
   tagline: Product Management
-  
+
   # Sidebar links
   email: arsenyakar@hotmail.com
-  phone: 
+  phone:
   timezone: Reading, UK
   linkedin: arsenyakar
   #    pdf: http://www.Proficient.edu/images/default/sample.pdf
-  
+
 career-profile:
   title: Career Profile
   summary: |
-   Customer centric product manager with 12 years of experience delivering software products within financial services industry. Profficient at translating complex business 
-   problems into actionable product deliverables by leveraging analytical and interpersonal skills. Proven track record of advocating agile methodology and driving change at organisational level. Recognized as a strong leader and collaborative team player, committed to fostering an environment that drives project success.
-  
+    Customer centric product manager with 12 years of experience delivering software products within financial services industry. Profficient at translating complex business 
+    problems into actionable product deliverables by leveraging analytical and interpersonal skills. Proven track record of advocating agile methodology and driving change at organisational level. Recognized as a strong leader and collaborative team player, committed to fostering an environment that drives project success.
 
 projects:
   title: Key Achievements
   assignments:
-  
     - title: New Product Launch
       tagline: |
         - Implemented “lean startup” inspired way of working for FISCAL's NextGen product development.
         - Took an idea from inception through to delivery, focused on early validation of ideas with hypothesis led approach, targeting early adopters for itirative delivery.
-    
+
     - title: Cross Functional Product Team
       tagline: |
         - Built a cross functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions. 
         - Succesfully created a cross functional team, integrating with software delivery teams, bringing a holistic approach to product development life cycle. 
         - Improved existing waterfall release process (6+months code complete to market release to be in-line with CI/CD) to continued delivery at the end of each iteration.
-   
+
     - title: Enterprise-wide PO Coaching
       tagline: |
         - Coached 200+ Product Owners as part of Discover's transformation from project to product mindset, with a substantial emphasis on customer centricity.
-    
-        
+
     - title: Modernization and Replatforming
       tagline: |
         - Led the pilot project of platform modernization for a subset of the network. This included controlled exit from Scaled Agile Framework and return to core agility.
-      
+
 experiences:
   title: Experiences
   info:
@@ -57,59 +54,61 @@ experiences:
       company: Discover
       details: |
         - Own and operate a self-owned business, delivering high-quality projects for diverse clientele.
-        
+
     - role: Product Owner - Digital Payments
       time: 2019 - 2022
       company: Discover
       details: |
         - Own and operate a self-owned business, delivering high-quality projects for diverse clientele.
-        
+
     - role: Product Manager
       time: 2018 - 2019
       company: ActiveOps Limited
       details: |
         - Own and operate a self-owned business, delivering high-quality projects for diverse clientele.
-        
+
     - role: Product Owner
       time: 2017 - 2018
       company: Gigaclear PLC
       details: |
         - Own and operate a self-owned business, delivering high-quality projects for diverse clientele.
-    
+
     - role: Product Owner
       time: 2011 - 2017
       company: FISCAL Technologies
       details: |
         - Own and operate a self-owned business, delivering high-quality projects for diverse clientele.
-   
 
-certifications:
+education:
   title: Education
-  list:
-    - name: MSc International Business Management
-      start: 2011
-      organization: University of Surrey
-    - name: BA International Relations
-      start: 2009
-      organization: Ege Universitesi-Turkey
-
+  info:
+    - degree: MSc International Business Management
+      time: 2011
+      university: University of Surrey
+      details: |
+        TBD
+    - degree: BA International Relations
+      time: 2009
+      university: Ege Universitesi-Turkey
+      details: |
+        TBD
 
 skills:
   title: Skills &amp; Proficiency
-  
+
   toolset:
     - name: Agile Methodology
       level: 93%
 
     - name: Customer Empathy
       level: 91%
-      
+
     - name: Stakeholder Management
       level: 89%
-      
+
     - name: Business Analysis
       level: 87%
-      
+
     - name: Product Strategy
       level: 85%
 
@@ -118,7 +117,6 @@ skills:
 
     - name: Design Thinking
       level: 81%
-
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
