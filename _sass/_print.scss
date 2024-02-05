@@ -1,4 +1,10 @@
 @media print {
+  *,
+  :after,
+  :before {
+    color: #fff !important;
+  }
+
   @page {
     size: A4;
   }
