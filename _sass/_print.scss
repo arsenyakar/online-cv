@@ -1,10 +1,4 @@
 @media print {
-  *,
-  :after,
-  :before {
-    color: #fff !important;
-  }
-
   @page {
     size: A4;
   }
@@ -22,6 +16,7 @@
     -webkit-print-color-adjust: exact;
   }
   .sidebar-wrapper {
+    color: #fff !important;
     position: static;
     float: right;
     width: 45%;
