@@ -21,31 +21,29 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Customer centric product manager with 12 years of experience delivering software products within financial services industry. Profficient at translating complex business 
-    problems into actionable product deliverables by leveraging analytical and interpersonal skills. Proven track record of advocating agile methodology and driving change at organisational level. Recognized as a strong leader and collaborative team player, committed to fostering an environment that drives project success.
-
+    Customer centric product manager with 12 years of experience, delivering software products within financial services industry. Proficient at translating complex business problems into actionable product deliverables by leveraging analytical and interpersonal skills. Proven track record of advocating agile methodology and driving change at organisational level. 
 projects:
   title: Key Achievements
   assignments:
     - title: New Product Launch
       tagline: |
-        - Implemented “lean startup” inspired way of working for FISCAL's NextGen product development.
-        - Took an idea from inception through to delivery, focused on early validation of ideas with hypothesis led approach, targeting early adopters for itirative delivery.
-
-    - title: Cross Functional Product Team
-      tagline: |
-        - Built a cross functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions. 
-        - Succesfully created a cross functional team, integrating with software delivery teams, bringing a holistic approach to product development life cycle. 
-        - Improved existing waterfall release process (6+months code complete to market release to be in-line with CI/CD) to continued delivery at the end of each iteration.
-
-    - title: Enterprise-wide PO Coaching
-      tagline: |
-        - Coached 200+ Product Owners as part of Discover's transformation from project to product mindset, with a substantial emphasis on customer centricity.
-
+        - Implemented “lean startup” inspired way of working for FISCAL's NextGen product development. 
+        - Took an idea from inception through to delivery, focused on early validation of ideas with hypothesis led approach, targeting early adopters for iterative delivery.
     - title: Modernization and Replatforming
       tagline: |
-        - Led the pilot project of platform modernization for a subset of the network. This included controlled exit from Scaled Agile Framework and return to core agility.
+        - Defined the strategy of ActiveOps’ modernization initiative by running various discovery workshops with senior leadership which guided teams through delivery. 
+        - Redesigned Fiscal’s flagship product, reduced false positives by 80% by analysing historical data, refining the algorithm based on customer feedback. Transformed the way data was presented, from 100+ reports to actionable pieces of information.
+    - title: Cross Functional Product Team
+      tagline: |
+        - Built a cross-functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions.  
+        - Successfully created a cross functional team, integrating with software delivery teams, bringing a holistic approach to product development life cycle.  
+        - Improved existing waterfall release process (6+months code-complete to market release) to be in-line with CI/CD to continues delivery at the end of each iteration. 
+    - title: Agile Leadership 
+      tagline: |
+        - Coached 200+ Product Owners as part of Discover's transformation from project to product mindset, with a substantial emphasis on customer centricity.  
+        - Successfully delivered monthly learning workshops on Product Management practices such as, lean canvas, prioritisation, roadmaps persona workshops and user story mapping 
 
+    
 experiences:
   title: Experiences
   info:
