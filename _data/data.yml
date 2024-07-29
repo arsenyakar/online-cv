@@ -26,19 +26,16 @@ career-profile:
 projects:
   title: Key Achievements
   assignments:
+   - title: People and Product Leadership
+      tagline: |
+        - Built a cross-functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions. 
+        - Defined the strategy of ActiveOps’ modernization initiative by running various discovery workshops with senior leadership which guided teams through delivery. 
+        - Improved existing waterfall release process (6+months code-complete to market release) to be in-line with CI/CD to continues delivery at the end of each iteration. 
     - title: New Product Launch
       tagline: |
         - Implemented “lean startup” inspired way of working for FISCAL's NextGen product development. 
         - Took an idea from inception through to delivery, focused on early validation of ideas with hypothesis led approach, targeting early adopters for iterative delivery.
-    - title: Modernization and Replatforming
-      tagline: |
-        - Defined the strategy of ActiveOps’ modernization initiative by running various discovery workshops with senior leadership which guided teams through delivery. 
-        - Redesigned Fiscal’s flagship product, reduced false positives by 80% by analysing historical data, refining the algorithm based on customer feedback. Transformed the way data was presented, from 100+ reports to actionable pieces of information.
-    - title: Cross Functional Product Team
-      tagline: |
-        - Built a cross-functional team consisting of a Product Owner, a UI/UX Designer, and a Technical Author through new hires and internal promotions.  
-        - Successfully created a cross functional team, integrating with software delivery teams, bringing a holistic approach to product development life cycle.  
-        - Improved existing waterfall release process (6+months code-complete to market release) to be in-line with CI/CD to continues delivery at the end of each iteration. 
+        - Redesigned Fiscal’s flagship product, reduced false positives by 80% by analysing historical data, refining the algorithm based on customer feedback. Transformed the way data was presented, from 100+ reports to actionable pieces of information.  
     - title: Agile Leadership 
       tagline: |
         - Coached 200+ Product Owners as part of Discover's transformation from project to product mindset, with a substantial emphasis on customer centricity.  
