@@ -22,7 +22,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Customer centric product manager with 12 years of start-up and scale up experience, delivering software products within financial services industry. Proven track record of building and leading product team, advocating agile methodology and driving change at organisational level. 
+    Customer centric product manager with 12 years of start-up and scale-up experience, delivering software products within financial services industry. Proven track record of building and leading product team, advocating agile methodology and driving change at organisational level. 
 projects:
   title: Key Achievements
   assignments:
@@ -65,8 +65,8 @@ experiences:
       time: 2018 - 2019
       company: ActiveOps Limited
       details: |
-        ActiveOps delivers a workforce management and process automation software to labour and knowledge-intensive industries such as banking, insurance, and similar industries. As the 
-        - Recruit, train and mentor a cross functional team consisting of a Product Owner, 2  UI/UX Designers, and a Technical Author.   
+        ActiveOps delivers a workforce management and process automation software to labour and knowledge-intensive industries such as banking, insurance, and similar industries.
+        - Recruit, train and mentored a cross functional team consisting of a Product Owner, 2  UI/UX Designers, and a Technical Author.   
         - Improved existing waterfall release process (6+months code complete to market release) to be in line with CI/CD, through close collaboration with software delivery teams, bringing a holistic approach to product development life cycle. 
         - Decommissioned the customer learning portal and replaced with walkthroughs and tooltips. This contributed to faster delivery to customer at the end of each increment, removing manual management of 300+ articles that resided on the portal.
 
